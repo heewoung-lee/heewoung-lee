@@ -10,23 +10,23 @@
 
 ---
 <div align="center">
-<table width="860" border="0" cellpadding="0" cellspacing="0">
+<table width="860" border="0" cellpadding="0" cellspacing="0" bgcolor="#0d1117">
 <tr>
-<td colspan="3" bgcolor="#0d1117" height="4"></td>
+<td colspan="5" bgcolor="#303944" height="2"></td>
 </tr>
 <tr>
-<td bgcolor="#0d1117" width="4"></td>
-<td bgcolor="#171d23" width="852">
-<table width="852" border="0" cellpadding="10" cellspacing="0">
+<td bgcolor="#303944" width="2"></td>
+<td bgcolor="#171d23" width="856">
+<table width="856" border="0" cellpadding="10" cellspacing="0" bgcolor="#171d23">
 <tr>
-<td rowspan="6" width="470" valign="top">
+<td rowspan="6" width="470" valign="top" bgcolor="#171d23">
 <a href="https://store.steampowered.com/app/4711050/ImpossibleBosses/?beta=0">
-<img src="./asset/ReadMeData/ScreenShot/0.png" width="470" alt="ImpossibleBosses Main">
+<img src="./asset/ReadMeData/ScreenShot/0.png" width="470" height="326" alt="ImpossibleBosses Main">
 </a>
 </td>
-<td rowspan="6" width="246" valign="top">
+<td rowspan="6" width="246" valign="top" bgcolor="#171d23">
 <a href="https://store.steampowered.com/app/4711050/ImpossibleBosses/?beta=0">
-<img src="./asset/ReadMeData/ScreenShot/1.png" width="246" alt="ImpossibleBosses Preview">
+<img src="./asset/ReadMeData/ScreenShot/1.png" width="246" height="126" alt="ImpossibleBosses Preview">
 </a>
 <br><br>
 <font color="#ffffff"><b>ImpossibleBosses</b></font>
@@ -45,53 +45,53 @@
 <br>
 <font color="#66c0f4"><b>Wishlist Now</b></font>
 </td>
-<td width="74" valign="top">
+<td width="74" valign="top" bgcolor="#171d23">
 <a href="./asset/ReadMeData/ScreenShot/1.png">
-<img src="./asset/ReadMeData/ScreenShot/1.png" width="74" alt="Screenshot 1">
+<img src="./asset/ReadMeData/ScreenShot/1.png" width="74" height="45" alt="Screenshot 1">
 </a>
 </td>
 </tr>
 <tr>
-<td width="74" valign="top">
+<td width="74" valign="top" bgcolor="#171d23">
 <a href="./asset/ReadMeData/ScreenShot/2.png">
-<img src="./asset/ReadMeData/ScreenShot/2.png" width="74" alt="Screenshot 2">
+<img src="./asset/ReadMeData/ScreenShot/2.png" width="74" height="45" alt="Screenshot 2">
 </a>
 </td>
 </tr>
 <tr>
-<td width="74" valign="top">
+<td width="74" valign="top" bgcolor="#171d23">
 <a href="./asset/ReadMeData/ScreenShot/3.png">
-<img src="./asset/ReadMeData/ScreenShot/3.png" width="74" alt="Screenshot 3">
+<img src="./asset/ReadMeData/ScreenShot/3.png" width="74" height="45" alt="Screenshot 3">
 </a>
 </td>
 </tr>
 <tr>
-<td width="74" valign="top">
+<td width="74" valign="top" bgcolor="#171d23">
 <a href="./asset/ReadMeData/ScreenShot/4.png">
-<img src="./asset/ReadMeData/ScreenShot/4.png" width="74" alt="Screenshot 4">
+<img src="./asset/ReadMeData/ScreenShot/4.png" width="74" height="45" alt="Screenshot 4">
 </a>
 </td>
 </tr>
 <tr>
-<td width="74" valign="top">
+<td width="74" valign="top" bgcolor="#171d23">
 <a href="./asset/ReadMeData/ScreenShot/5.png">
-<img src="./asset/ReadMeData/ScreenShot/5.png" width="74" alt="Screenshot 5">
+<img src="./asset/ReadMeData/ScreenShot/5.png" width="74" height="45" alt="Screenshot 5">
 </a>
 </td>
 </tr>
 <tr>
-<td width="74" valign="top">
+<td width="74" valign="top" bgcolor="#171d23">
 <a href="./asset/ReadMeData/ScreenShot/0.png">
-<img src="./asset/ReadMeData/ScreenShot/0.png" width="74" alt="Main image">
+<img src="./asset/ReadMeData/ScreenShot/0.png" width="74" height="45" alt="Main image">
 </a>
 </td>
 </tr>
 </table>
 </td>
-<td bgcolor="#0d1117" width="4"></td>
+<td bgcolor="#303944" width="2"></td>
 </tr>
 <tr>
-<td colspan="3" bgcolor="#0d1117" height="4"></td>
+<td colspan="5" bgcolor="#303944" height="2"></td>
 </tr>
 </table>
 </div>
