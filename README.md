@@ -7,3 +7,9 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hiwoong12" alt="Solved.ac Profile">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://store.steampowered.com/app/4711050/ImpossibleBosses/?beta=0">
+    <img src="asset/ReadMeData/ReadMePanel/panel.gif" alt="ImpossibleBosses Steam panel">
+  </a>
+</p>
