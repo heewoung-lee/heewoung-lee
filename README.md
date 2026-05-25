@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="asset/ReadMeData/ReadMeDivider/achievement-transparent.svg" alt="Achievement">
+<p align="left">
+  <img src="asset/ReadMeData/ReadMeDivider/achievement-left.svg" alt="Achievement">
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
     <img height="180" src="https://streak-stats.demolab.com/?user=heewoung-lee&theme=dark" alt="GitHub Streak">
   </a>
@@ -12,18 +12,18 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="asset/ReadMeData/ReadMeDivider/release-gamepad.svg" alt="Release">
+<p align="left">
+  <img src="asset/ReadMeData/ReadMeDivider/release-gamepad-left.svg" alt="Release">
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://store.steampowered.com/app/4711050/ImpossibleBosses/?beta=0">
     <img src="asset/ReadMeData/ReadMePanel/panel.gif" alt="ImpossibleBosses Steam panel">
   </a>
 </p>
 
-<p align="center">
-  <img src="asset/ReadMeData/ReadMeDivider/tech-stack-transparent.svg" alt="Tech Stack">
+<p align="left">
+  <img src="asset/ReadMeData/ReadMeDivider/tech-stack-left.svg" alt="Tech Stack">
 </p>
 
 ### Languages
