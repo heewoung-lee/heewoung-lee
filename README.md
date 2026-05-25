@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="asset/ReadMeData/ReadMeDivider/achievement.svg" alt="Achievement">
+  <img src="asset/ReadMeData/ReadMeDivider/achievement-transparent.svg" alt="Achievement">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="asset/ReadMeData/ReadMeDivider/release.svg" alt="Release">
+  <img src="asset/ReadMeData/ReadMeDivider/release-transparent.svg" alt="Release">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="asset/ReadMeData/ReadMeDivider/tech-stack.svg" alt="Tech Stack">
+  <img src="asset/ReadMeData/ReadMeDivider/tech-stack-transparent.svg" alt="Tech Stack">
 </p>
 
 ### Languages
