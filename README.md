@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="asset/ReadMeData/ReadMeDivider/achievement.svg" alt="Achievement">
+</p>
+
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=heewoung-lee&theme=dark" alt="GitHub Streak">
   </a>
@@ -9,12 +13,18 @@
 </p>
 
 <p align="center">
+  <img src="asset/ReadMeData/ReadMeDivider/release.svg" alt="Release">
+</p>
+
+<p align="center">
   <a href="https://store.steampowered.com/app/4711050/ImpossibleBosses/?beta=0">
     <img src="asset/ReadMeData/ReadMePanel/panel.gif" alt="ImpossibleBosses Steam panel">
   </a>
 </p>
 
-## 🛠 Tech Stack
+<p align="center">
+  <img src="asset/ReadMeData/ReadMeDivider/tech-stack.svg" alt="Tech Stack">
+</p>
 
 ### Languages
 
