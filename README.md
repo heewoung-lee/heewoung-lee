@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=heewoung-lee&theme=dark" alt="GitHub Streak">
+    <img height="180" src="https://streak-stats.demolab.com/?user=heewoung-lee&theme=dark" alt="GitHub Streak">
   </a>
-  <br><br>
+  &nbsp;&nbsp;
   <a href="https://solved.ac/hiwoong12">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hiwoong12" alt="Solved.ac Profile">
+    <img height="180" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hiwoong12" alt="Solved.ac Profile">
   </a>
 </p>
 
