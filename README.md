@@ -39,8 +39,9 @@
 ![Vivox](https://img.shields.io/badge/Vivox-5C2D91?style=for-the-badge)
 ![Photon](https://img.shields.io/badge/Photon-004480?style=for-the-badge)
 
-### Backend / Database / Runtime
+### Backend / Database / External APIs
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google OAuth 2.0](https://img.shields.io/badge/Google%20OAuth%202.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js%2024-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
