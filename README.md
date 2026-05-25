@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="asset/ReadMeData/ReadMeDivider/release-transparent.svg" alt="Release">
+  <img src="asset/ReadMeData/ReadMeDivider/release-gamepad.svg" alt="Release">
 </p>
 
 <p align="center">
