@@ -3,9 +3,9 @@
   <desc id="desc">Section divider for Achievement</desc>
   <defs>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#5f6d7a" stop-opacity="0.2"/>
-      <stop offset="0.5" stop-color="#7f8b98" stop-opacity="0.85"/>
-      <stop offset="1" stop-color="#5f6d7a" stop-opacity="0.2"/>
+      <stop offset="0" stop-color="#0074d9"/>
+      <stop offset="0.5" stop-color="#0074d9"/>
+      <stop offset="1" stop-color="#0074d9"/>
     </linearGradient>
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur stdDeviation="2.5" result="blur"/>
@@ -18,7 +18,7 @@
 
   <line x1="310" y1="58" x2="884" y2="58" stroke="url(#line)" stroke-width="2"/>
 
-  <g transform="translate(28 20)" fill="none" stroke="#ffc438" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+  <g transform="translate(28 20)" fill="none" stroke="#0074d9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
     <path d="M10 5h18v9c0 7.5-4.5 13-9 13s-9-5.5-9-13V5z"/>
     <path d="M10 9H4c0 7 3.2 11 8.2 12"/>
     <path d="M28 9h6c0 7-3.2 11-8.2 12"/>
@@ -27,5 +27,5 @@
     <path d="M10 41h18"/>
   </g>
 
-  <text x="88" y="62" fill="#f2f6fb" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" text-anchor="start">Achievement</text>
+  <text x="88" y="62" fill="#0074d9" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" text-anchor="start">Achievement</text>
 </svg>
