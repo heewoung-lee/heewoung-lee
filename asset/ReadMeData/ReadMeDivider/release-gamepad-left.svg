@@ -26,5 +26,5 @@
     <circle cx="49" cy="31" r="2.3"/>
   </g>
 
-  <text x="96" y="62" fill="#0074d9" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" text-anchor="start">Release</text>
+  <text x="96" y="62" fill="#6ee7ff" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" text-anchor="start">Release</text>
 </svg>
